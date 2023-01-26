@@ -1,7 +1,7 @@
-# Shader Labs
 # Intermediate Graphics Lab 1
 
-- [ ] Create model
-- [ ] Create textures
-- [ ] Create shader
+- [x] Create model
+- [x] Create textures
+- [x] Create shader
  
+**The doll's dress utilizes the shader, everything else is part of the in class coding**
