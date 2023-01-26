@@ -4,4 +4,4 @@
 - [x] Create textures
 - [x] Create shader
  
-**The doll's dress utilizes the shader, everything else is part of the in class coding**
+*The doll's dress utilizes the shader, everything else is part of the in class coding*
